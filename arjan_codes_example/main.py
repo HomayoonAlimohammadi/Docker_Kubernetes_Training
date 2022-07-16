@@ -27,7 +27,7 @@ def read_data(path_to_data: str) -> Dict[str, Employee]:
 
 @app.get("/")
 def index_view() -> Response:
-    return Response("The API is up and running!")
+    return Response("The API is up and running! Yeay!")
 
 
 @app.get("/employees/")

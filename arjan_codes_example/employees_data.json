@@ -10,5 +10,17 @@
         "name": "Nooshin Rajabi",
         "tags": ["Materials Scientist", "Machine Learning"],
         "description": "She is an exceptional talent in machine learning and materials science."
+    },
+    {
+        "id": "mobinrj",
+        "name": "Mobin Rajabi",
+        "tags": ["Gamer", "Programmer"],
+        "description": "He loves playing games and recently was attracted to programming thanks to me!"
+    },
+    {
+        "id": "mobinrj2",
+        "name": "Mobin Rajabi",
+        "tags": ["Gamer", "Programmer", "Brother"],
+        "description": "He loves playing games and recently was attracted to programming thanks to me!"
     }
 ]
