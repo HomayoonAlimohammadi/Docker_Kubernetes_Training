@@ -1,0 +1,14 @@
+[
+    {
+        "id": "homayoonalm",
+        "name": "Homayoon Alimohammadi",
+        "tags": ["Software Engineer", "Programmer"],
+        "description": "He is going to be a principle software engineer at google in the near future!"
+    },
+    {
+        "id": "nrajabi",
+        "name": "Nooshin Rajabi",
+        "tags": ["Materials Scientist", "Machine Learning"],
+        "description": "She is an exceptional talent in machine learning and materials science."
+    }
+]
